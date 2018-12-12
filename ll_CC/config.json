@@ -3,5 +3,5 @@
   "anchorCharacter": "#",
   "lineBreaks": "gfm",
   "title": "Bin's Wiki",
-  "useSideMenu": False
+  "useSideMenu": True
 }
